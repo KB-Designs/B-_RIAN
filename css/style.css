@@ -1,0 +1,97 @@
+/*home*/
+h1 {
+  font-weight: bold;
+}
+* {
+  font-family: ;
+  font-weight: ;
+}
+
+body {
+  text-align: center;
+}
+h1 {
+  font-family: "Montserrat", sans-serif;
+}
+p {
+  font-family: "Montserrat", sans-serif;
+}
+.a-bold {
+  font-weight: bold;
+}
+
+.profile {
+  display: grid;
+  place-items: center;
+  margin: 50px 0 50px;
+}
+.pro-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  object-fit: cover;
+  margin: 30px;
+  margin-top: 75px;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+.navbar-brand {
+  padding-left: 25%;
+}
+.items {
+  padding-right: 25%;
+}
+
+/*About*/
+
+img {
+  height: 100px;
+  width: 150px;
+}
+.graduate-img {
+  float: left;
+  margin-right: 30px;
+}
+.code-img {
+  float: right;
+  margin-left: 30px;
+}
+.gari-img {
+  float: left;
+  margin-right: 30px;
+}
+.skill {
+  margin: 120px auto 100px auto;
+  text-align: left;
+  width: 55%;
+  line-height: 2;
+}
+
+/*services*/
+#services #services {
+  margin: 120px auto 100px auto;
+  line-height: 4;
+  background-color: #87a2ff;
+
+  text-align: center;
+}
+.size {
+  height: 500px;
+  padding-top: 150px;
+}
+h1 {
+  margin: 0%;
+}
+.pad {
+  padding-top: 5px;
+}
+
+/*footer*/
+#footer {
+  padding: 7px 15px;
+  text-align: center;
+}
+.social-icon {
+  margin: 10px 20px;
+}
