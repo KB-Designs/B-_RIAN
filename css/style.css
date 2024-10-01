@@ -36,6 +36,11 @@ p {
 .container-fluid {
   padding: 3% 15%;
 }
+.navbar{
+  position:fixed;
+  top: 0;
+  width:100%
+}
 .navbar-brand {
   padding-left: 25%;
 }
